@@ -1,0 +1,19 @@
+{
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "env": {
+      "browser": true,
+      "node": true,
+      "jest": true,
+      "es6": true
+  },
+  "plugins": [
+      "react-hooks"
+  ],
+  "rules": {
+      "jsx-a11y/anchor-is-valid": 0,
+      "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+      "react/prop-types": [2, {"ignore": ["className", "children", "id", "onClick", "style"]}],
+      "react-hooks/rules-of-hooks": "error"
+  }
+}

@@ -1,14 +1,10 @@
 import React from 'react';
 import App, { Container } from 'next/app';
 import { ApolloProvider } from 'react-apollo';
-import Head from '../components/head';
-import Nav from '../components/nav';
-import Sidebar from '../components/Sidebar';
 import withApolloClient from '../lib/with-apollo-client';
 import '../assets/scss/black-dashboard-pro-react.scss';
 import '../assets/demo/demo.css';
 import '../assets/css/nucleo-icons.css';
-import 'emoji-mart/css/emoji-mart.css';
 
 class MyApp extends App {
   static async getInitialProps({ Component, ctx }) {

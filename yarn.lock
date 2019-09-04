@@ -6729,21 +6729,21 @@ supports-color@^6.1.0:
   dependencies:
     has-flag "^3.0.0"
 
-sweetalert2-react@^0.7.2:
-  version "0.7.2"
-  resolved "https://registry.yarnpkg.com/sweetalert2-react/-/sweetalert2-react-0.7.2.tgz#afc5810249059afd5c842359c3e6d86260e8ecce"
-  integrity sha1-r8WBAkkFmv1chCNZw+bYYmDo7M4=
+sweetalert2-react@^0.8.3:
+  version "0.8.3"
+  resolved "https://registry.yarnpkg.com/sweetalert2-react/-/sweetalert2-react-0.8.3.tgz#4d4eaf5de807cb8d229edcaa0d7d3f711c36f5b3"
+  integrity sha512-l960IJWHE6BHDEImcn//thzQOY9moVccf6xgg42HDyLwpU/2wLvv9P82fD0sQn0WGAUwbjDz3Xfuj9oQI4iFzQ==
   dependencies:
     lodash.pick "^4.4.0"
     mousetrap "^1.6.0"
     prop-types "^15.0.0"
-    sweetalert2 "^7.15.1"
-    warning "^3.0.0"
+    sweetalert2 "^8.5.0"
+    warning "^4.0.3"
 
-sweetalert2@^7.15.1:
-  version "7.33.1"
-  resolved "https://registry.yarnpkg.com/sweetalert2/-/sweetalert2-7.33.1.tgz#7e3534d2c2962f875f419cfea5d75ee526d65cd4"
-  integrity sha512-69KYtyhtxejFG0HDb8aVhAwbpAWPSTZwaL5vxDHgojErD2KeFxTmRgmkbiLtMC8UdTFXRmvTPtZTF4459MUb7w==
+sweetalert2@^8.5.0:
+  version "8.15.3"
+  resolved "https://registry.yarnpkg.com/sweetalert2/-/sweetalert2-8.15.3.tgz#cb9a619f768f62cd388d0cce71c4726c7309792b"
+  integrity sha512-SRmGNN/KxH2AIrL0jl/HJTUMnRktiMG5WCg5Qjjwmr9q0wL/Q027uUmXJGkcDhjp5N8Kh8nGOCxh/p9YqjYWJQ==
 
 symbol-observable@^1.0.2, symbol-observable@^1.0.4:
   version "1.2.0"
@@ -7197,14 +7197,7 @@ vm-browserify@^1.0.1:
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.0.tgz#bd76d6a23323e2ca8ffa12028dc04559c75f9019"
   integrity sha512-iq+S7vZJE60yejDYM0ek6zg308+UZsdtPExWP9VZoCFCz1zkJoXFnAX7aZfd/ZwrkidzdUZL0C/ryW+JwAiIGw==
 
-warning@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/warning/-/warning-3.0.0.tgz#32e5377cb572de4ab04753bdf8821c01ed605b7c"
-  integrity sha1-MuU3fLVy3kqwR1O9+IIcAe1gW3w=
-  dependencies:
-    loose-envify "^1.0.0"
-
-warning@^4.0.2:
+warning@^4.0.2, warning@^4.0.3:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/warning/-/warning-4.0.3.tgz#16e9e077eb8a86d6af7d64aa1e05fd85b4678ca3"
   integrity sha512-rpJyN222KWIvHJ/F53XSZv0Zl/accqHR8et1kpaMTD/fLCRxtV8iX8czMzY7sVZupTI3zcUTg8eycS2kNF9l6w==

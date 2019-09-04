@@ -5723,10 +5723,10 @@ react-lifecycles-compat@^3.0.4:
   resolved "https://registry.yarnpkg.com/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
   integrity sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==
 
-react-notification-alert@^0.0.9:
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/react-notification-alert/-/react-notification-alert-0.0.9.tgz#46f9582af4c76ea71b9e559dae1b5e106f9d60ef"
-  integrity sha512-CfsVvdHu/ZYcLnmpaWsTFs8/O3CM5Wau2A1QPMC6X2o+mI5iT/r1j1R69JYAt24ViQ82Ne/wG0Mp4ASFKfUTeg==
+react-notification-alert@^0.0.11:
+  version "0.0.11"
+  resolved "https://registry.yarnpkg.com/react-notification-alert/-/react-notification-alert-0.0.11.tgz#b6ae0fc7b1c8f90aac4499b933e2d166d023d92a"
+  integrity sha512-iunuuZeYke4ljhpoAdltanQqIB1tk7sNMuv4L2dNG1p0BOYQtMFipucno2uNGliGz9oc8TsaqgE2X3GKn7YWWA==
 
 react-onclickoutside@^6.5.0, react-onclickoutside@^6.7.1:
   version "6.8.0"

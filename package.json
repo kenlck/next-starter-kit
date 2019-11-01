@@ -46,7 +46,7 @@
     "react-notification-alert": "^0.0.11",
     "react-select": "^2.4.2",
     "react-table": "^6.8.6",
-    "react-use-form-state": "^0.4.0",
+    "react-use-form-state": "^0.12.0",
     "reactstrap": "^7.0.2",
     "subscriptions-transport-ws": "^0.9.16",
     "sweetalert2-react": "^0.7.2",

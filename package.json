@@ -25,7 +25,7 @@
     "aws-sdk": "^2.518.0",
     "formik": "^1.4.2",
     "graphql": "^14.0.2",
-    "graphql-tag": "^2.10.1",
+    "graphql-tag": "^2.10.3",
     "isomorphic-unfetch": "^3.0.0",
     "lodash": "^4.17.15",
     "lottie-react-web": "^2.1.4",

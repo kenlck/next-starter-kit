@@ -15,7 +15,7 @@
     "apollo-client": "^2.6.3",
     "apollo-link": "^1.2.11",
     "apollo-link-context": "^1.0.17",
-    "apollo-link-error": "^1.1.5",
+    "apollo-link-error": "^1.1.13",
     "apollo-link-http": "^1.5.9",
     "apollo-link-retry": "^2.2.8",
     "apollo-link-timeout": "^1.1.10",

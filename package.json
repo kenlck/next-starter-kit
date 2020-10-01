@@ -41,7 +41,7 @@
     "react-bootstrap-switch": "^15.5.3",
     "react-chartjs-2": "^2.7.4",
     "react-datepicker": "^2.0.0",
-    "react-datetime": "^2.16.3",
+    "react-datetime": "^3.0.4",
     "react-dom": "next",
     "react-notification-alert": "^0.0.11",
     "react-select": "^2.4.2",
